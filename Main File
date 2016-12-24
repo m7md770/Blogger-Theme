@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+	<meta content='width=device-width, initial-scale=1' name='viewport'/>
+	<meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'/>
+
+   	 <b:include data='blog' name='all-head-content'/>
+    	<title><data:blog.pageTitle/></title>
+
+	<!-- css bootstrap -->
+	<link href='//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css' rel='stylesheet'/>
+	<link href='//cdn.rawgit.com/morteza/bootstrap-rtl/master/dist/cdnjs/3.3.1-rc2/css/bootstrap-rtl.min.css' rel='stylesheet'/>
+
+	<!--FONT AWSOME -->
+	<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet'/>
+
+	<!--JQ and JS Bootstrap -->
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'/>
+	<script src='//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js'/>
+
+
+ 
+<b:skin><![CDATA[
+
+/*
+======================== 
+* Created on : 12 /2016 
+
+* Theme name : Al-Masar
+
+* Description : 3afsh , blogger Tamplate
+
+* Author : Mohammad Abdo
+* Author url : www.mo-abdo.com
+* Version : 1.0 
+
+
+======================== 
+*/
+
+
+body{
+
+	background-color: #f2f2f2;
+	color: rgb(153, 153, 153);
+    line-height: 22;
+    word-wrap: break-word;
+}
+
+/*----------- start section outer wrapper -------*/
+.outer-wrapper{
+
+	background: #fff;
+    height: 1000px;
+    margin: 0px auto;
+
+}
+
+]]></b:skin>
+
+
+</head>
+<body>
+	<!-- Start section outer wrapper -->
+  <div class='container outer-wrapper'>ay 7aga</div>
+	<!-- End section outer wrapper -->
+
+
+   <b:section id='khrabesh'/>
+
+</body>
+</html>
